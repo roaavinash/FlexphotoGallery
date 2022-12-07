@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+#header{
+    background-color: rgb(21, 6, 36);
+  
+    color: cornsilk;
+    height: 7vh;
+    text-align: center;
+    padding: 1rem;
+}
+#avi{
+   display: flex;
+ 
+   justify-content: center;
+ 
+ 
+}
+#cat{
+    display: flex;
+   
+ justify-content:center;
+}
+.hh{
+    
+  padding: 0.5rem;
+}
+.h{
+    margin-top: 10px;
+    padding: 0.5rem;
+}
